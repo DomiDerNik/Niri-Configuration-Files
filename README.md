@@ -1,1 +1,1 @@
-# Niri-Configuration-Files
+Put them in ~/.config/niri
